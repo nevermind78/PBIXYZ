@@ -7,8 +7,6 @@
   - [Table de matière](#table-de-matière)
   - [Introduction](#introduction)
   - [Modèle Tabulaires](#modèle-tabulaires)
-    - [Pivot Table](#pivot-table)
-    - [Histogramme](#histogramme)
   - [PBI](#pbi)
     - [Visuelle 1](#visuelle-1)
     - [Visuelle 2](#visuelle-2)
@@ -22,14 +20,12 @@ Ceci est un Projet PBI
 ## Modèle Tabulaires
 ![Modele](img/modele.png)
 
-### Pivot Table
 
-### Histogramme
 
 ## PBI
 Voici quelques Visuel  avec EXCEL
 ### Visuelle 1
-
+![Modele](img/viz1.png)
 ### Visuelle 2
 
 
